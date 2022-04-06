@@ -25,7 +25,7 @@ SECRET_KEY = '6j3m+l#iq=jb$s%h3&zv-@vt)avu-%czra9*b!_*z27)vbkdtz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['whispering-anchorage-10341.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
