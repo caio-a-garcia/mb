@@ -4,6 +4,8 @@ Project from the 3rd chapter of [Django for Beginners](https://www.amazon.com.br
 All instructions are run on Windows cmd, inside project folder after clonning with:
 ```git clone https://github.com/caio-a-garcia/mb.git```
 
+Don't forget to check out the [code from the book](https://github.com/wsvincent/djangoforbeginners), as well as its author [@wsvincent](https://github.com/wsvincent)
+
 ## Setup
 
  1) `python -m venv <env_folder_name>`
